@@ -1,0 +1,7 @@
+SAMPLE,ISOLATE,GROUP,SEX,AGE,FRACTION,RIN,INSTRUMENT,BIOMATERIAL PROVIDER,TISSUE,DISEASE,ACCESSION,ID,LINK
+R3098_DLPFC_polyA_RNAseq_total_SRR1554535,R2869,ADULT,MALE,41.58,TOTAL,8.7,Illumina HiSeq 2000,LIBD,DLPFC,CONTROL,SAMN02999518,2999518,https://www.ncbi.nlm.nih.gov/biosample?LinkName=sra_biosample&from_uid=956724
+R3098_DLPFC_polyA_RNAseq_total_SRR1554536,R3098,ADULT,FEMALE,44.17,TOTAL,5.3,Illumina HiSeq 2001,LIBD,DLPFC,CONTROL,SAMN02999519,2999519,https://www.ncbi.nlm.nih.gov/biosample?LinkName=sra_biosample&from_uid=956725
+R3467_DLPFC_polyA_RNAseq_total_SRR1554561,R4166,ADULT,MALE,43.88,TOTAL,8.7,Illumina HiSeq 2002,LIBD,DLPFC,CONTROL,SAMN02999544,2999544,https://www.ncbi.nlm.nih.gov/biosample?LinkName=sra_biosample&from_uid=956750
+R3485_DLPFC_polyA_RNAseq_total_SRR1554541,R3485,FETAL,MALE,-0.3836,TOTAL,5.7,Illumina HiSeq 2003,LIBD,DLPFC,CONTROL,SAMN02999524,2999524,https://www.ncbi.nlm.nih.gov/biosample?LinkName=sra_biosample&from_uid=956730
+R3452_DLPFC_polyA_RNAseq_total_SRR1554537,R3452,FETAL,FEMALE,-0.3836,TOTAL,9.6,Illumina HiSeq 2004,LIBD,DLPFC,CONTROL,SAMN02999520,2999520,https://www.ncbi.nlm.nih.gov/biosample?LinkName=sra_biosample&from_uid=956726
+R4707_DLPFC_polyA_RNAseq_total_SRR1554567,R4707,FETAL,MALE,-0.4986,TOTAL,8,Illumina HiSeq 2005,LIBD,DLPFC,CONTROL,SAMN02999551,2999551,https://www.ncbi.nlm.nih.gov/biosample?LinkName=sra_biosample&from_uid=956757

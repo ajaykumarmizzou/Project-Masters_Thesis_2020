@@ -1,0 +1,10 @@
+PASS	Basic Statistics	Bowtie2 on data 7_ alignments
+PASS	Per base sequence quality	Bowtie2 on data 7_ alignments
+PASS	Per sequence quality scores	Bowtie2 on data 7_ alignments
+WARN	Per base sequence content	Bowtie2 on data 7_ alignments
+PASS	Per sequence GC content	Bowtie2 on data 7_ alignments
+PASS	Per base N content	Bowtie2 on data 7_ alignments
+PASS	Sequence Length Distribution	Bowtie2 on data 7_ alignments
+PASS	Sequence Duplication Levels	Bowtie2 on data 7_ alignments
+PASS	Overrepresented sequences	Bowtie2 on data 7_ alignments
+PASS	Adapter Content	Bowtie2 on data 7_ alignments
